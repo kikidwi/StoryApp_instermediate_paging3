@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="empty_list">kosong\n</string>
+    <string name="yes">yes</string>
+    <string name="No">no</string>
+    <string name="list_story_page">Detail Story\n</string>
+    <string name="description">Deskripsi\n</string>
+    <string name="upload_story">Add Story</string>
+    <string name="logout_msg">Anda yakin ingin keluar?</string>
+    <string name="logout">Logout\n</string>
+    <string name="greeting">Halo</string>
+    <string name="register_succes_msg">Selamat!\nAkun anda berhasil dibuat</string>
+    <string name="register_error_msg">Terjadi error, akun anda gagal dibuat</string>
+    <string name="txt_email">Email\n</string>
+    <string name="txt_msg_email_error">Email tidak valid\n</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_msg_password_error">Password harus memiliki 8 karakter</string>
+    <string name="password_min_length">Password harus memiliki 8 karakter</string>
+    <string name="invalid_email">Invalid Email\n</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Coba lagi</string>
+</resources>
